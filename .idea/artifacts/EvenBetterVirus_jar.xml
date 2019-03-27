@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EvenBetterVirus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EvenBetterVirus_jar</output-path>
+    <root id="archive" name="EvenBetterVirus.jar">
+      <element id="module-output" name="EvenBetterVirus" />
+    </root>
+  </artifact>
+</component>
